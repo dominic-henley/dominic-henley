@@ -5,3 +5,6 @@ I'm an undergraduate at the University of Melbourne, currently studying Computin
 I have experience in Python, Java, SQL and C. This place will be a compilation of projects I have worked on, as a way to reflect on my progress.
 
 I'm particularly interested in cybersecurity, and data science.
+
+Contact info:
+email: dominicshenley@gmail.com
